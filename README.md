@@ -15,5 +15,7 @@ Word | Part of speech | Transcription | Translate | Example |
 Entrance | -noun | [ˈentrəns] | Вход  | I can’t find the entrance to the shop
 ### Принцип работы
 Для чтения **.pdf** используется библиотека `PyMuPDF`.
+
 Для перевода библеотека `google_trans_new`.
+
 А для работы с файлами **.xlsx** библиотека `openpyxl`.
